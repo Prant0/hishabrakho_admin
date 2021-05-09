@@ -7,7 +7,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="hishabrakho_admin"
+        android:label="Hira_Admin"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
